@@ -1,3 +1,12 @@
+
+<img width="274" alt="ss" src="https://user-images.githubusercontent.com/84699301/125814485-3f68745c-5b8e-4e41-8488-800af6c013a6.PNG">
+
+
+
+
+
+
+
 ### Introduction:
 This is an simple window app that could save ample of our time. We can use it in regular basis to make some calculation. This app can be convenient for students' studying in a  elementary school.
 ### Features:
