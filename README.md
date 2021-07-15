@@ -5,3 +5,5 @@ This is an simple window app that could save ample of our time. We can use it in
 - Subtraction
 - Multiplication
 - Division
+### Tool used:
+- https://docs.python.org/3/library/tkinter.html [Used for building the app]
